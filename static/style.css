@@ -28,11 +28,12 @@ body{
 }
 
 .contents input{
+    color: #fff;
     text-align: center;
     margin-top: 50px;
     font-size:40px;
     border-radius: 10px;
-    background-color: #eeebeb;
+    background-color: rgb(73, 6, 208);
     display: inline-block;
 }
 
